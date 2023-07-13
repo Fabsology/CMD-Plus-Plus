@@ -1,0 +1,8 @@
+C:\Users\famueller\source\repos\CMD++\CMD++\bin\Debug\CMD++.exe.config
+C:\Users\famueller\source\repos\CMD++\CMD++\bin\Debug\CMD++.exe
+C:\Users\famueller\source\repos\CMD++\CMD++\bin\Debug\CMD++.pdb
+C:\Users\famueller\source\repos\CMD++\CMD++\obj\Debug\CMD++.csproj.AssemblyReference.cache
+C:\Users\famueller\source\repos\CMD++\CMD++\obj\Debug\CMD++.csproj.SuggestedBindingRedirects.cache
+C:\Users\famueller\source\repos\CMD++\CMD++\obj\Debug\CMD++.csproj.CoreCompileInputs.cache
+C:\Users\famueller\source\repos\CMD++\CMD++\obj\Debug\CMD++.exe
+C:\Users\famueller\source\repos\CMD++\CMD++\obj\Debug\CMD++.pdb
